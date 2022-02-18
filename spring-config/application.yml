@@ -1,0 +1,8 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: client-config
+management.endpoints.web:
+  include: '*'
